@@ -14,7 +14,7 @@ social:
       header: false
     link: https://github.com/luisdiegoquiros
     label: Github
-    icon_pack: fab
+    icon_pack: fas
     icon: github-square
 organizations:
   - name: Stanford University
