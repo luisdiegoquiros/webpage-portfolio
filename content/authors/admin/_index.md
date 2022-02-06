@@ -1,6 +1,6 @@
 ---
 role: Professor of Artificial Intelligence
-avatar_filename: profile-pic.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
