@@ -1,7 +1,7 @@
 ---
 role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: profile-pic.jpg
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -10,18 +10,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - display:
+      header: false
+    link: https://github.com/luisdiegoquiros
+    label: Github
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon: github-square
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
