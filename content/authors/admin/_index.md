@@ -14,8 +14,14 @@ social:
       header: false
     link: https://github.com/luisdiegoquiros
     label: Github
-    icon_pack: fas
+    icon_pack: fab
     icon: github-square
+  - display:
+      header: false
+    link: linkedin.com/in/luis-diego-quirós-gómez-943020175
+    icon_pack: fab
+    icon: linkedin
+    label: Linkedin
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
