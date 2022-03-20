@@ -1,12 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Apache Spark
+summary: Udacity Data Engineering Nanodegree Project 4 using Apache Spark.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/luisdiegoquiros/project4-datalake-spark"
 
 image:
   caption: Photo by rawpixel on Unsplash

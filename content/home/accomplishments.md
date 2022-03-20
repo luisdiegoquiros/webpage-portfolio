@@ -23,30 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+- certificate_url: "https://coursera.org/share/c1bd64fae4603f8324a4d699c6f4cad1"
+  date_end:
+  date_start:  "2021-08-31"
+  description: "The program consists of 10 online courses that provided the latest job-ready tools and skills about data science."
+  organization: "Coursera"
+  organization_url: "https://www.coursera.org"
+  title: "IBM Data Science Specialization"
+  url: "https://www.coursera.org/professional-certificates/ibm-data-science"
+
 
 design:
   columns: '2' 
