@@ -1,11 +1,11 @@
 ---
-role: Professor of Artificial Intelligence
+role: Statistician
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistics
+  - Machine learning
+  - Data analysis
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,32 +18,26 @@ social:
     icon: github-square
   - display:
       header: false
-    link: linkedin.com/in/luis-diego-quirós-gómez-943020175
+    link: https://www.linkedin.com/in/luisdquirosg/
     icon_pack: fab
     icon: linkedin
     label: Linkedin
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+# organizations:
+#   - name: Stanford University
+#     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor's degree in Statistics
+      institution: Universidad de Costa Rica
+      year: 2021
 superuser: true
 highlight_name: true
 title: Luis Diego Quirós Gómez
-email: ""
+email: "luis25quiros@gmail.com"
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Statistician graduated from the Universidad de Costa Rica (UCR) with 3+ years of broad-based experience in data analytics and data science. He is proficient in predictive modeling, data processing, data mining algorithms, various analytical tools, and programming languages, including Python and R.  He is passionate about the data science process, especially machine learning and its latest advancements. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is interested in how different methodologies can be applied to business problems to generate valuable insights. Furthermore, he is involved in learning about data engineering and the deployment of machine learning models using big data. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/LuisResume.pdf" "newtab" >}}resume{{< /staticref >}}.
